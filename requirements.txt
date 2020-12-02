@@ -1,2 +1,3 @@
 mitmproxy
 pymysql
+lxml>=4.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
